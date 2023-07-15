@@ -1,0 +1,36 @@
+.not-found{
+    margin: 50px;
+}
+
+.banner-container{
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+.img{
+    width: 750px;
+    margin-left: 250px;
+    padding-top: 200px;
+    
+    
+    
+}
+
+.banner-info{
+    margin-left: 150px;
+}
+.banner-title{
+    font-size: 80px;
+}
+.banner-dse{
+    font-size: 30px;
+    width: 380px;
+}
+
+.btn{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+}
